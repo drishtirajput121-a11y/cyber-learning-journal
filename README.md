@@ -29,5 +29,5 @@ No flags, passwords, or private exploits are shared.
 
 ---
 
-## 🚀 Learning in Progress
+## Learning in Progress
 This repository will be updated regularly as I progress.
